@@ -1,3 +1,3 @@
 # features-Demo
 This is my first repository
-Author-Harkishore Singh
+Author-Harkishore
